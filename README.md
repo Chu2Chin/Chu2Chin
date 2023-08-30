@@ -1,6 +1,16 @@
 Hi, I'm Chuchu! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="www.linkedin.com/in/
 ">IT Systems Analyst</a></h1>
 
+<h2>💼 CyberSecurity Portfolio:</h2>
+
+-[Botium Toys_Audit scope and goals](https://docs.google.com/document/d/1gM6phLB58-rhCkrnvuLclFuBAHzD_V594VWrnm3smHo/edit?resourcekey=0-aNzvs4jiqvR8L-ZmXEWXHg#heading=h.kuduxtw0qwid)
+
+-[Botium Toys_Risk Assesment](https://docs.google.com/document/d/1ITtNjzC2-GmNuZFB__xhaqNc8UsB4P-VEGq0sFGNe9Q/edit#heading=h.evidx83t54sc)
+
+-[Security Audit_Controls Assesment](https://docs.google.com/document/d/1HPZqCJ2LsETKtU08BzK9yOUUDerOhSCaTKibv4pShNw/edit#heading=h.swls7m11ggfl)
+
+-[Security Audit_Compliance checklist](https://docs.google.com/document/d/1Z70gEIoozzk7vhTXUHjkcRL1Lf55FbGSRgzf6yOEP0A/edit#heading=h.swls7m11ggfl)
+
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Secuirity Audit: Controls assessment</b> 
@@ -11,8 +21,7 @@ Hi, I'm Chuchu! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersec
   - [File permissions in Linux](https://docs.google.com/document/d/1NdBiQk6wxE6iUme-N0E5VLUDfkqsgBiGswPeC7aQpPg/edit?resourcekey=0-Fgma7Fmd-6J3y7T48KhyLA#heading=h.adnh333husy)
 - <b>Incident handler's journal </b>
   - [Incident handler's journal](https://docs.google.com/document/d/1Q_DycD1hbMPP2TlFpANH_ZuEu4Xa40VbGm6gESaHLLk/edit?resourcekey=0-0SIZlTD8Fc-4EJWN_wfxdA)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 <h2>Certifications</h2>
 
