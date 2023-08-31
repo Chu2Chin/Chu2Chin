@@ -3,13 +3,17 @@ Hi, I'm Chuchu! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Cybersec
 
 <h2>💼 CyberSecurity Portfolio:</h2>
 
--[Botium Toys_Audit scope and goals](https://docs.google.com/document/d/1gM6phLB58-rhCkrnvuLclFuBAHzD_V594VWrnm3smHo/edit?resourcekey=0-aNzvs4jiqvR8L-ZmXEWXHg#heading=h.kuduxtw0qwid)
+- <b>Botium Toys_Audit scope and goals</b> 
+  - [Botium Toys_Audit scope and goals](https://docs.google.com/document/d/1gM6phLB58-rhCkrnvuLclFuBAHzD_V594VWrnm3smHo/edit?resourcekey=0-aNzvs4jiqvR8L-ZmXEWXHg#heading=h.kuduxtw0qwid)
 
--[Botium Toys_Risk Assesment](https://docs.google.com/document/d/1ITtNjzC2-GmNuZFB__xhaqNc8UsB4P-VEGq0sFGNe9Q/edit#heading=h.evidx83t54sc)
+- <b>Botium Toys_Risk Assesment</b>
+  - [Botium Toys_Risk Assesment](https://docs.google.com/document/d/1ITtNjzC2-GmNuZFB__xhaqNc8UsB4P-VEGq0sFGNe9Q/edit#heading=h.evidx83t54sc)
 
--[Security Audit_Controls Assesment](https://docs.google.com/document/d/1HPZqCJ2LsETKtU08BzK9yOUUDerOhSCaTKibv4pShNw/edit#heading=h.swls7m11ggfl)
+- <b>Security Audit Controls Assesment</b>
+   - [Security Audit_Controls Assesment](https://docs.google.com/document/d/1HPZqCJ2LsETKtU08BzK9yOUUDerOhSCaTKibv4pShNw/edit#heading=h.swls7m11ggfl)
 
--[Security Audit_Compliance checklist](https://docs.google.com/document/d/1Z70gEIoozzk7vhTXUHjkcRL1Lf55FbGSRgzf6yOEP0A/edit#heading=h.swls7m11ggfl)
+- <b>Security Audit Compliance Checklist</b>
+  - [Security Audit_Compliance checklist](https://docs.google.com/document/d/1Z70gEIoozzk7vhTXUHjkcRL1Lf55FbGSRgzf6yOEP0A/edit#heading=h.swls7m11ggfl)
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
